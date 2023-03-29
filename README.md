@@ -1,8 +1,8 @@
 Hi there 👋 My name is Danil Svinoukhov. I'm interested in Computer Graphics and Backend Programming
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeDonil&show_icons=true&theme=react&count_private=true&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeDonil&show_icons=true&theme=react&count_private=true&card_width=770)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeDonil&theme=react&card_width=700&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeDonil&theme=react&card_width=770&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 Set of my main technologies is listed below:
 
@@ -28,3 +28,10 @@ Set of my main technologies is listed below:
 | Degree                                     | University                           |  Status     |
 | ------------------------------------------ | ------------------------------------ | :---------: |
 | B. of Informatics and Сomputer Engineering | Voronezh State Technical University  | In progress |
+
+### :mailbox:	Contacts
+Feel free to contact me via:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=white&link=https://t.me/NeDonil)](https://t.me/NeDonil)
+[![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&style=for-the-badge&logoColor=white&link=mailto:svinoukhov03@gmail.com)](mailto:svinoukhov03@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=for-the-badge&logoColor=white&link=https://www.linkedin.com/in/danil-svinoukhov/)](https://www.linkedin.com/in/danil-svinoukhov/)
