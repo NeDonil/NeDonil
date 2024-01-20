@@ -13,16 +13,26 @@ Set of my main technologies is listed below:
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual%20Studio&style=for-the-badge&logoColor=white)]()
 [![CLion](https://img.shields.io/badge/-CLion-000000?logo=CLion&style=for-the-badge&logoColor=white)]()
 
-[![Spring](https://img.shields.io/badge/-Spring-008005?logo=spring&style=for-the-badge&logoColor=white)]()
-[![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&style=for-the-badge&logoColor=white)]()
-[![Postgres](https://img.shields.io/badge/-Postgresql-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white)]()
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&style=for-the-badge&logoColor=white)]()
+[![Spring](https://img.shields.io/badge/-Spring-008005?logo=Spring&style=for-the-badge&logoColor=white)]()
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&style=for-the-badge&logoColor=white)]()
+[![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=Gradle&style=for-the-badge&logoColor=white)]()
+[![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?logo=Liquibase&style=for-the-badge&logoColor=white)]()
+[![JUnit](https://img.shields.io/badge/-JUnit5-25A162?logo=JUnit5&style=for-the-badge&logoColor=white)]()
 [![IDEA](https://img.shields.io/badge/-idea-000000?logo=intellij%20idea&style=for-the-badge&logoColor=white)]()
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)]()
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white)]()
+[![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&style=for-the-badge&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=white)]()
+
+[![Angular](https://img.shields.io/badge/-Angular-0F0F11?logo=Angular&style=for-the-badge&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&style=for-the-badge&logoColor=white)]()
+[![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=ReactiveX&style=for-the-badge&logoColor=white)]()
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&style=for-the-badge&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&style=for-the-badge&logoColor=white)]()
 
 ### :mortar_board: Education
 | Degree                                     | University                           |  Status     |
