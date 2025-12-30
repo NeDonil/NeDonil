@@ -35,9 +35,10 @@ Set of my main technologies is listed below:
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&style=for-the-badge&logoColor=white)]()
 
 ### :mortar_board: Education
-| Degree                                     | University                           |  Status     |
-| ------------------------------------------ | ------------------------------------ | :---------: |
-| B. of Informatics and Сomputer Engineering | Voronezh State Technical University  | In progress |
+| Degree                                     | University                           |  Status           |
+| ------------------------------------------ | ------------------------------------ | :---------------: |
+| B. of Informatics and Сomputer Engineering | Voronezh State Technical University  | Completed in 2025 |
+| M. of Informatics and Сomputer Engineering | Voronezh State Technical University  | In progress       |
 
 ### :mailbox:	Contacts
 Feel free to contact me via:
